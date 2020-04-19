@@ -1,4 +1,4 @@
-#Welcome to Sonjoy Kumar Paul's Webpage
+# Welcome to Sonjoy Kumar Paul's Webpage
 
 You can use the [editor on GitHub](https://github.com/paul-kumar-sonjoy/paul-kumar-sonjoy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
